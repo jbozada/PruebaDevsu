@@ -2,7 +2,7 @@
 Prueba Técnica para puesto de Programador Senior Java
 ## Arquitectura Aplicada : Microservicios
   Descripción : se han desarrolllado 2 microservicios. El primero para la gestión de Clientes y el segundo para la gestión de Cuentas
-  #### Microservicio de Cliente cliente 
+  #### Microservicio de Cliente client 
   #### Microservicio de Cuentas account
 
 ## Preparación del Ambiente
